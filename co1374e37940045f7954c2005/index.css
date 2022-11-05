@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    background: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game{
+    background-color: #1B244A;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#new-game{
+    width : 150px;
+    font-size: 20px;
+    line-height: 12px;
+    padding-bottom: 4px;
+    background: linear-gradient(red, maroon);
+    border-style: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0px 0px 10px black;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    color : white;
+    width : 575px;
+    text-align: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    height: 385px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.home-score, .guest-score{
+    color : red;
+    font-size: 90px;
+    line-height: 126px;
+    background: black;
+    width: 155px;
+    height: 120px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+button {
+    border-style: none;
+    background-color: #1B244A;
+    border : solid 2px #9AABD8;
+    border-radius: 5px;
+    color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    font-family: inherit;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 6px; 
+}
+
+.high {
+    color : greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
